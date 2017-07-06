@@ -11,6 +11,8 @@ Adapted for: DEN
 <!--9:04 WDI4 -->
 <!--9:00 5 minutes -->
 
+
+<!-- REMOVING POOP -->
 <!-- So who remembers Git?
 
 What is the difference between Git and GitHub?

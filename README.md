@@ -24,6 +24,8 @@ Today we will show an incredibly easy way to get a front-end website online call
 //////////
 I just wanna dance man...
 on the side note, don't do drug unless you are in a concert. Only waste those precious brain cells at the right time.
+
+Just kidding, Dont do drug unless you are coding...
 ///////////
 
 # Github Branches and Pages

@@ -12,6 +12,7 @@ Adapted for: DEN
 <!--9:03 WDI5 -->
 <!--WDI6 9:02 -->
 <!--9:00 5 minutes -->
+class started at 9:08
 
 <!-- So who remembers Git?
 

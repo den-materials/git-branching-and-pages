@@ -25,6 +25,10 @@ Who has published websites online?
 
 Today we will show an incredibly easy way to get a front-end website online called GitHub pages.  This can save you countless hours of setting up servers, and interfacing with 3rd party tools. -->
 
+
+# GO DEVILS
+
+
 # Github Branches and Pages
 
 ## Why is this important?
